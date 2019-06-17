@@ -2,6 +2,10 @@
   "name": "react-to-do-list",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "v8.11.1",
+    "npm": "5.6.0"
+  },
   "dependencies": {
     "axios": "^0.19.0",
     "react": "^16.8.6",
